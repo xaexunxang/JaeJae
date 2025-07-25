@@ -29,7 +29,6 @@
   <img alt="Google Tag Manager" src="./icons/googletagmanager.svg" width="48"/>
 </div>
 
-
 <h3 align="center"> Coorperation & Communication </h3>
 <div align="center">
   <img alt="Github" src="./icons/Github-Dark.svg" width="48"/>
@@ -46,5 +45,9 @@
 </div>
 
 <div align="center">
-  <img alt="" src="./icons" width="48"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaexunxang&show_icons=true&locale=en&layout=compact" alt="xaexunxang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaexunxang&show_icons=true&locale=en" alt="xaexunxang" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaexunxang&" alt="xaexunxang" />
 </div>
+
+
