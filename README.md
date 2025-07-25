@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=JaeJae's%20Github&fontSize=75&color=0:A6B1E1,100:424874&section=header&fontColor=F4EEFF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=I'm%20Jaehun&fontSize=75&color=0:67D096,100:9BA2FF&section=header&fontColor=153B50&stroke=3E5622)
 
 <h1 align="center"> 📚 Tech Stack 📚 </h2>
 
@@ -41,4 +41,14 @@
 <h3 align="center"> Design </h3>
 <div align="center">
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
+</div>
+
+<h1 align="center"> 👾 Github Stats 👾 </h1>
+
+<div align="center">
+  <img alt="xaexunxang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaexunxang&show_icons=true&locale=en&layout=compact" />
+  </br></br>
+  <img alt="xaexunxang" align="center" src="https://github-readme-stats.vercel.app/api?username=xaexunxang&show_icons=true&locale=en" />
+  </br></br>
+  <img alt="xaexunxang" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaexunxang&" />
 </div>
