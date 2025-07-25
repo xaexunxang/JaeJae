@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=JaeJae's%20Github&fontSize=75&color=0:A6B1E1,100:424874&section=header&fontColor=F4EEFF)
 
-<h1 align="center"> 📚 Tech Stack 📚 </h2>
+<h1 align="center"> 📚 Tech Stack 📚 </h1>
 
 <h3 align="center"> Languages </h3>
+
 <div align="center">
   <img alt="JavaScript" src="./icons/JavaScript.svg" width="48"/>
   <img alt="TypeScript" src="./icons/TypeScript.svg" width="48"/>
@@ -10,6 +11,7 @@
 </div>
 
 <h3 align="center"> Frontend </h3>
+
 <div align="center">
   <img alt="React" src="./icons/React-Dark.svg" width="48"/>
   <img alt="NextJS" src="./icons/NextJS-Dark.svg" width="48"/>
@@ -18,6 +20,7 @@
 </div>
 
 <h3 align="center"> Tools </h3>
+
 <div align="center">
   <img alt="Yarn" src="./icons/Yarn-Dark.svg" width="48">
   <img alt="Vite" src="./icons/Vite-Dark.svg" width="48">
@@ -30,6 +33,7 @@
 </div>
 
 <h3 align="center"> Coorperation & Communication </h3>
+
 <div align="center">
   <img alt="Github" src="./icons/Github-Dark.svg" width="48"/>
   <img alt="Notion" src="./icons/Notion-Dark.svg" width="48"/>
@@ -40,14 +44,17 @@
 </div>
 
 <h3 align="center"> Design </h3>
+
 <div align="center">
   <img alt="Figma" src="./icons/Figma-Dark.svg" width="48"/>
 </div>
 
+<h1 align="center"> 👾 Github Stats 👾 </h1>
+
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaexunxang&show_icons=true&locale=en&layout=compact" alt="xaexunxang" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaexunxang&show_icons=true&locale=en" alt="xaexunxang" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaexunxang&" alt="xaexunxang" />
+  <img alt="xaexunxang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaexunxang&show_icons=true&locale=en&layout=compact" />
+  </br></br>
+  <img alt="xaexunxang" align="center" src="https://github-readme-stats.vercel.app/api?username=xaexunxang&show_icons=true&locale=en" />
+  </br></br>
+  <img alt="xaexunxang" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaexunxang&" />
 </div>
-
-
