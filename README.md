@@ -20,12 +20,14 @@
 
 <h3 align="center"> Tools </h3>
 <div align="center">
-  <img alt="ESLint" src="./icons/" width="48"/>ESLint
-  <img alt="Prettier" src="./icons/" width="48"/>Prettier
+  <img alt="Yarn" src="./icons/Yarn-Dark.svg" width="48">
+  <img alt="Vite" src="./icons/Vite-Dark.svg" width="48">
+  <img alt="ESLint" src="./icons/eslint.svg" width="48"/>
+  <img alt="Prettier" src="./icons/prettier.svg" width="48"/>
   <img alt="Docker" src="./icons/Docker.svg" width="48"/>
-  <img alt="Storybook" src="./icons" width="48"/>Storybook
-  <img alt="Google Analytics" src="./icons/" width="48"/>Google Analytics
-  <img alt="Google Tag Manager" src="./icons/" width="48"/>Google Tag Manager
+  <img alt="Storybook" src="./icons/storybook 1.svg" width="48"/>
+  <img alt="Google Analytics" src="./icons/googleanalytics.svg" width="48"/>
+  <img alt="Google Tag Manager" src="./icons/googletagmanager.svg" width="48"/>
 </div>
 
 
@@ -33,10 +35,10 @@
 <div align="center">
   <img alt="Github" src="./icons/Github-Dark.svg" width="48"/>
   <img alt="Notion" src="./icons/Notion-Dark.svg" width="48"/>
-  <img alt="Slack" src="./icons" width="48"/>Slack
-  <img alt="Zoom" src="./icons" width="48"/>Zoom
+  <img alt="Slack" src="./icons/slack.svg" width="48"/>
+  <img alt="Zoom" src="./icons/zoom.svg" width="48"/>
   <img alt="Discord" src="./icons/Discord.svg" width="48"/>
-  <img alt="Kakaotalk" src="./icons" width="48"/>Kakaotalk
+  <img alt="Kakaotalk" src="./icons/kakaotalk.svg" width="48"/>
 </div>
 
 <h3 align="center"> Design </h3>
