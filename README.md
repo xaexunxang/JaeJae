@@ -11,11 +11,10 @@
 
 <h3 align="center"> Frontend </h3>
 <div align="center">
-  <img alt="" src="./icons/React-Dark.svg" width="48"/>
-  <img alt="" src="./icons/NextJS-Dark.svg" width="48"/>
-  <img alt="" src="./icons/TailwindCSS-Dark.svg" width="48"/>
-  <img alt="" src="./icons/StyledComponents.svg" width="48"/>
-  <img alt="" src="./icons/" width="48">
+  <img alt="React" src="./icons/React-Dark.svg" width="48"/>
+  <img alt="NextJS" src="./icons/NextJS-Dark.svg" width="48"/>
+  <img alt="TailwindCSS" src="./icons/TailwindCSS-Dark.svg" width="48"/>
+  <img alt="StyledComponents" src="./icons/StyledComponents.svg" width="48"/>
 </div>
 
 <h3 align="center"> Tools </h3>
@@ -25,7 +24,7 @@
   <img alt="ESLint" src="./icons/eslint.svg" width="48"/>
   <img alt="Prettier" src="./icons/prettier.svg" width="48"/>
   <img alt="Docker" src="./icons/Docker.svg" width="48"/>
-  <img alt="Storybook" src="./icons/storybook 1.svg" width="48"/>
+  <img alt="Storybook" src="./icons/storybook.svg" width="48"/>
   <img alt="Google Analytics" src="./icons/googleanalytics.svg" width="48"/>
   <img alt="Google Tag Manager" src="./icons/googletagmanager.svg" width="48"/>
 </div>
