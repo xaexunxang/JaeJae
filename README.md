@@ -42,3 +42,13 @@
 <div align="center">
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
 </div>
+
+<h1 align="center"> 👾 Github Stats 👾 </h1>
+
+<div align="center">
+  <img alt="xaexunxang" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaexunxang&show_icons=true&locale=en&layout=compact" />
+  </br></br>
+  <img alt="xaexunxang" align="center" src="https://github-readme-stats.vercel.app/api?username=xaexunxang&show_icons=true&locale=en" />
+  </br></br>
+  <img alt="xaexunxang" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaexunxang&" />
+</div>
