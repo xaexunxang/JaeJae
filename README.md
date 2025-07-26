@@ -32,7 +32,7 @@
   <img alt="Google Tag Manager" src="./icons/googletagmanager.svg" width="48"/>
 </div>
 
-<h3 align="center"> Coorperation & Communication </h3>
+<h3 align="center"> Cooperation & Communication </h3>
 
 <div align="center">
   <img alt="Github" src="./icons/Github-Dark.svg" width="48"/>
